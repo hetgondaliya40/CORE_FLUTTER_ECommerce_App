@@ -1,16 +1,10 @@
-# ecomme
+# Video :
 
-A new Flutter project.
+<img src = "https://github.com/hetgondaliya40/CORE_FLUTTER_ECommerce_App/assets/132036737/cfd8fd78-f85b-45f2-ad0c-86e3ca1afc4a.png">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/hetgondaliya40/CORE_FLUTTER_ECommerce_App/assets/132036737/5781ca3b-cb83-4506-817f-ec79814cd098
+
