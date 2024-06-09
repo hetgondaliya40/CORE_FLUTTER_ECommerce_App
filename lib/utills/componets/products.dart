@@ -19,7 +19,8 @@ Widget myProduct({required BuildContext context, required String cat}) {
                   padding: const EdgeInsets.all(8.0),
                   child: GestureDetector(
                     onTap: () {
-                      Navigator.pushNamed(context, Routes.detail_page);
+                      Navigator.pushNamed(context, Routes.detail_page,
+                          arguments: e);
                     },
                     child: Column(
                       children: [
